@@ -1,5 +1,7 @@
 <?php
 include_once "settings/values.php";
+include_once "settings/myValues.php";
+
 include_once 'settings/jdf.php';
 include_once 'baseInfo.php';
 
